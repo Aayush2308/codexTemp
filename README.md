@@ -27,7 +27,8 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
       a. Visit the Repository:
       
-      ![image](https://github.com/user-attachments/assets/3de913a4-cf9f-47ba-9c7e-e69cbcdc2dfc) 
+      ![image](https://github.com/user-attachments/assets/26b46556-4d1a-4f32-b72e-21f1282afc17)
+ 
        
       b. Locate the "Fork" button, usually located in the top-right corner of the repository page, and click it. <br> 
       c. Choose a Destination: Select the repository's destination, which is typically your personal GitHub account. <br> 
@@ -41,9 +42,10 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
     * Open your terminal or command prompt and navigate to your desired project directory.
     * After that, open your forked repository and click on this **code** button and copy the HTTPS link
-   
-    ![image](https://github.com/user-attachments/assets/aa68e502-f260-46c0-9f7c-375396a80a92)
+      
+    ![image](https://github.com/user-attachments/assets/a39e1649-9e4f-4453-a358-fcd35999bf2b)
 
+      
     * Now write the below command and paste your HTTPS link in vscode terminal 
      ```bash
      git clone 
@@ -53,7 +55,7 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 3. **Navigate to the Project Directory:**
    ```bash
-   cd .\SwapReads\  
+   cd cd .\Code-Book\
    ```
 
 4. **Install Dependencies:**
