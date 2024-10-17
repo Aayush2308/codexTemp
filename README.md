@@ -29,14 +29,14 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 **Steps:**
 1. **Star this Repository ⭐**  
-![image](https://github.com/user-attachments/assets/cbb271ab-2363-49f5-a93a-a538ff05c50b)
+![image](https://github.com/user-attachments/assets/522d9797-31d2-4606-a234-373f41874466)
 
 
 2. **Fork the Repository:**
 
       a. Visit the Repository:
       
-      ![image](https://github.com/user-attachments/assets/26b46556-4d1a-4f32-b72e-21f1282afc17)
+      ![image](https://github.com/user-attachments/assets/de82dcea-97f2-4eff-a76e-a99d0e17e784)
  
        
       b. Locate the "Fork" button, usually located in the top-right corner of the repository page, and click it. <br> 
@@ -52,7 +52,7 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
     * Open your terminal or command prompt and navigate to your desired project directory.
     * After that, open your forked repository and click on this **code** button and copy the HTTPS link
       
-      ![image](https://github.com/user-attachments/assets/fcc1fe6b-6c1f-4464-bab3-01be7f95a791)
+      ![image](https://github.com/user-attachments/assets/7088e896-8f12-432e-8d2c-b81e7cfd2c5d)
 
       
     * Now write the below command and paste your HTTPS link in vscode terminal 
@@ -64,7 +64,7 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 3. **Navigate to the Project Directory:**
    ```bash
-    cd .\Code-Book\ (or your project folder name)
+    cd .\Project-Guidance\ (or your project folder name)
    ```
 
 6. **Create a new branch **
@@ -86,7 +86,7 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
    
 9. **Raise an Issue**
     * Open the repository and click on the issue button
-      ![image](https://github.com/user-attachments/assets/aacb586d-ff91-41eb-8577-f740814b41e4)
+      ![image](https://github.com/user-attachments/assets/c5768991-21ae-4647-be9b-dc1d1d270b08)
       **Some Guidelines for Raising Issues**
             * Be specific and concise
             * Check for existing issues
